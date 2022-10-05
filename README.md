@@ -2,7 +2,8 @@
 
 # UI Design
 
-![image](https://user-images.githubusercontent.com/77104733/178340436-20cdf619-de51-48b9-8fdf-fa18a0402cf7.png)
+![maxresdefau11111111111lt](https://user-images.githubusercontent.com/114868431/194122232-efb07cc6-ab21-43c9-9299-f845fbeb8a2a.jpg)
+
 
 Please make sure that your antivirus is temporarily disabled. (Real-time scan)
 Since this is a Bot that automatically executes many commands, it may be falsely marked as a virus due to the fact that it is a Bot. There are no real viruses in my Repositories, so there is nothing to worry about. After you disable the antivirus, you should have a folder ready, preferably in your "Documents" folder.
